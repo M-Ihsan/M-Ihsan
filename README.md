@@ -1,4 +1,3 @@
-````md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:9333EA&text=M%20Ihsan%20ul%20Haq&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
@@ -15,16 +14,16 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-7C3AED?style=for-the-badge"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge"></a>
-  <a href="mailto:ihsan.infosec@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-9333EA?style=for-the-badge"></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-7C3AED?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge" /></a>
+  <a href="mailto:ihsan.infosec@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-9333EA?style=for-the-badge" /></a>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=7C3AED" />
-  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=4F46E5" />
-  <img src="https://img.shields.io/github/stars/yourusername?affiliations=OWNER&style=for-the-badge&color=9333EA" />
+  <img src="https://komarev.com" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
 ---
@@ -234,10 +233,10 @@ Hands-on cybersecurity practitioner focusing on enterprise attack simulations, p
 # Coding Profiles
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-7C3AED?style=for-the-badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-4F46E5?style=for-the-badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-9333EA?style=for-the-badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-312E81?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-7C3AED?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-4F46E5?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-9333EA?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-312E81?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -245,96 +244,6 @@ Hands-on cybersecurity practitioner focusing on enterprise attack simulations, p
 # GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://vercel.app" />
+  <img height="180em" src="https://vercel.app" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# Current Focus
-
-```yaml
-learning:
-  - Advanced Penetration Testing
-  - Active Directory Security
-  - Red Team Operations
-  - Python Security Automation
-
-building:
-  - Offensive Security Portfolio
-  - Security Research Repository
-  - Practical Attack Simulations
-
-exploring:
-  - Cloud Security
-  - Malware Analysis
-  - Threat Hunting
-  - AI Security
-
-open_to:
-  - Cybersecurity Internships
-  - Junior Penetration Tester Roles
-  - Security Research Collaboration
-  - Open Source Projects
-````
-
----
-
-# Connect
-
-<p align="center">
-<a href="mailto:ihsan.infosec@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ihsan.infosec@gmail.com-7C3AED?style=for-the-badge">
-</a>
-
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge">
-</a>
-
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-Follow-9333EA?style=for-the-badge">
-</a>
-
-<a href="https://your-portfolio-link.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-312E81?style=for-the-badge">
-</a>
-</p>
-
----
-
-<p align="center">
-<i>"Building secure systems through continuous learning, practical experimentation, and disciplined engineering."</i>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,50:7C3AED,100:9333EA"/>
-</p>
-```
