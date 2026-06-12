@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:9333EA&text=M%20Ihsan%20ul%20Haq&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://vercel.app" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Aspiring+Penetration+Tester;Ethical+Hacker;Offensive+Security+Practitioner;Cybersecurity+Researcher;Open+Source+Learner" />
+  <img src="https://demolab.com" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ADP-Computer%20Science-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CEH-In%20Progress-4F46E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ISC2%20CC-In%20Progress-9333EA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Faisalabad-Pakistan-312E81?style=for-the-badge" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-7C3AED?style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge" /></a>
-  <a href="mailto:ihsan.infosec@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-9333EA?style=for-the-badge" /></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge" /></a>
+  <a href="#"><img src="https://shields.io" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://shields.io" /></a>
+  <a href="mailto:ihsan.infosec@gmail.com"><img src="https://shields.io" /></a>
+  <a href="https://github.com"><img src="https://shields.io" /></a>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 I am an aspiring Penetration Tester and Offensive Security Practitioner with hands-on experience in network exploitation, Active Directory attacks, web application security, privilege escalation, credential attacks, and post-exploitation techniques.
 
-My focus is building practical offensive security skills through realistic lab environments, attack simulations, and detailed technical documentation. I enjoy breaking down complex security concepts into actionable learning while continuously expanding my expertise in cybersecurity, software engineering, automation, and AI-assisted security workflows.
+My focus is building practical offensive security skills through realistic lab environments, attack simulations, and detailed technical documentation. I enjoy breaking down complex security concepts into actionable learning while continuously expanding my expertise in cybersecurity, threat assessment, security automation, and infrastructure penetration testing.
 
 ### Open To
 
@@ -47,42 +47,23 @@ My focus is building practical offensive security skills through realistic lab e
 
 # Tech Stack
 
-## Languages
+## Languages & Scripting
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,php,html,css,mysql" />
+<img src="https://skillicons.dev" />
 </p>
 
-## Frontend
+## Backend, Databases & Core Web
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+<img src="https://skillicons.dev" />
 </p>
 
-## Backend & Databases
+## Cloud, DevOps & Security Environments
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,mysql,nodejs" />
+<img src="https://skillicons.dev" />
 </p>
-
-## Cloud, DevOps & Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash,docker" />
-</p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|------------|
-| Machine Learning | Intermediate | Scikit-Learn, Model Building |
-| Data Analysis | Intermediate | Pandas, NumPy |
-| Data Visualization | Intermediate | Matplotlib |
-| AI Fundamentals | Intermediate | ML Workflows & Pipelines |
-| Security Automation | Learning | Python-based Automation |
-| AI Security | Learning | AI-assisted Security Research |
 
 ---
 
@@ -204,39 +185,39 @@ Hands-on cybersecurity practitioner focusing on enterprise attack simulations, p
 
 ---
 
-# Certifications
+# Certifications & Roadmap
 
 ## AWS
 
-![AWS](https://img.shields.io/badge/AWS-Learning-7C3AED?style=for-the-badge)
+![AWS](https://shields.io)
 
 ## Oracle
 
-![Oracle](https://img.shields.io/badge/Oracle-Learning-4F46E5?style=for-the-badge)
+![Oracle](https://shields.io)
 
 ## NPTEL
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Continuous%20Learning-9333EA?style=for-the-badge)
+![NPTEL](https://shields.io)
 
 ## Cisco
 
-![Cisco](https://img.shields.io/badge/Cisco-Cybersecurity-312E81?style=for-the-badge)
+![Cisco](https://shields.io)
 
-## Current Certifications
+## Security Specific Track
 
-![CEH](https://img.shields.io/badge/CEH-In%20Progress-7C3AED?style=for-the-badge)
-![ISC2 CC](https://img.shields.io/badge/ISC2%20CC-In%20Progress-4F46E5?style=for-the-badge)
-![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-In%20Progress-9333EA?style=for-the-badge)
+![CEH](https://shields.io)
+![ISC2 CC](https://shields.io)
+![Google Cybersecurity](https://shields.io)
 
 ---
 
 # Coding Profiles
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-7C3AED?style=for-the-badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-4F46E5?style=for-the-badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-9333EA?style=for-the-badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-312E81?style=for-the-badge" /></a>
+<a href="#"><img src="https://shields.io" /></a>
+<a href="#"><img src="https://shields.io" /></a>
+<a href="#"><img src="https://shields.io" /></a>
+<a href="#"><img src="https://shields.io" /></a>
 </p>
 
 ---
