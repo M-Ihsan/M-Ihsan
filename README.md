@@ -32,7 +32,7 @@
 
 I am an aspiring Penetration Tester and Offensive Security Practitioner with hands-on experience in network exploitation, Active Directory attacks, web application security, privilege escalation, credential attacks, and post-exploitation techniques.
 
-My focus is building practical offensive security skills through realistic lab environments, attack simulations, and detailed technical documentation. I enjoy breaking down complex security concepts into actionable learning while continuously expanding my expertise in cybersecurity, threat assessment, security automation, and infrastructure penetration testing.
+My focus is building practical offensive security skills through realistic lab environments, attack simulations, and detailed technical documentation. I enjoy breaking down complex security concepts into actionable learning while continuously expanding my expertise in cybersecurity, software engineering, automation, and infrastructure penetration testing.
 
 ### Open To
 
@@ -47,22 +47,28 @@ My focus is building practical offensive security skills through realistic lab e
 
 # Tech Stack
 
-## Languages & Scripting
+## Languages
 
 <p align="center">
-<img src="https://skillicons.dev" />
+<img src="https://skillicons.dev/icons?i=python,js,php,html,css,mysql" />
 </p>
 
-## Backend, Databases & Core Web
+## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
-## Cloud, DevOps & Security Environments
+## Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev" />
+<img src="https://skillicons.dev/icons?i=php,mysql,nodejs" />
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash,docker" />
 </p>
 
 ---
@@ -185,7 +191,7 @@ Hands-on cybersecurity practitioner focusing on enterprise attack simulations, p
 
 ---
 
-# Certifications & Roadmap
+# Certifications
 
 ## AWS
 
@@ -203,7 +209,7 @@ Hands-on cybersecurity practitioner focusing on enterprise attack simulations, p
 
 ![Cisco](https://shields.io)
 
-## Security Specific Track
+## Current Certifications
 
 ![CEH](https://shields.io)
 ![ISC2 CC](https://shields.io)
