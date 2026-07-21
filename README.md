@@ -171,9 +171,4 @@ Hands-on cybersecurity practitioner focusing on enterprise attack simulations, p
 <a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-1F2937?style=for-the-badge" /></a>
 </p>
 
----
-# GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-</p>
+
