@@ -1,92 +1,77 @@
-# Muhammad Ihsan
+# Muhammad Ihsan ul Haq
+
 ### Enterprise Infrastructure & Cloud Security
 
-<p align="left">
-  <img src="https://img.shields.io/badge/FOCUS-Enterprise%20Security-FFD43B?style=flat-square&labelColor=111111" />
-  <img src="https://img.shields.io/badge/ACTIVE%20DIRECTORY-Windows%20Security-FFD43B?style=flat-square&labelColor=111111" />
-  <img src="https://img.shields.io/badge/LEARNING-Hybrid%20%26%20Cloud-FFD43B?style=flat-square&labelColor=111111" />
+<p>
+  <img src="https://img.shields.io/badge/FOCUS-Infrastructure%20Security-F2C94C?style=flat-square&labelColor=171717" />
+  <img src="https://img.shields.io/badge/CORE-Active%20Directory-F2C94C?style=flat-square&labelColor=171717" />
+  <img src="https://img.shields.io/badge/INTEREST-Hybrid%20Identity-F2C94C?style=flat-square&labelColor=171717" />
 </p>
 
-I am a Computer Science graduate building practical skills in **enterprise infrastructure security**, with a strong interest in Windows environments, Active Directory, network security, and hybrid identity.
+I'm an Associate Degree in Computer Science graduate developing practical skills in **enterprise infrastructure security**. My main interests are Windows environments, Active Directory, enterprise networking, and infrastructure vulnerability assessment.
 
-My approach is hands-on: building labs, exploring enterprise attack paths, understanding misconfigurations, troubleshooting systems, and documenting technical findings.
-
-I am particularly interested in understanding how enterprise environments operate, how their security weaknesses can be identified, and how those environments can be better protected.
+I learn by building labs, testing configurations, investigating attack paths, troubleshooting systems, and documenting what I find. My goal is to understand how enterprise environments work — and how to assess and secure them.
 
 ---
 
-## Current Focus
+## Current Direction
 
-- **Active Directory:** Domain enumeration, authentication security, attack paths and privilege management.
-- **Windows Security:** Windows internals, endpoint security, PowerShell and security configurations.
-- **Networking:** TCP/IP, subnetting, DNS, DHCP, network enumeration and infrastructure assessment.
-- **Infrastructure Security:** Vulnerability assessment, misconfiguration discovery and security hardening.
-- **Hybrid Identity & Cloud:** Microsoft Entra ID, Azure infrastructure and identity security fundamentals.
+- **Active Directory & Windows:** Domain enumeration, authentication, privilege and access control, Windows security.
+- **Enterprise Networking:** TCP/IP, subnetting, DNS, DHCP, service discovery, and internal network assessment.
+- **Infrastructure Security:** Vulnerability assessment, misconfiguration analysis, and security hardening.
+- **PowerShell & Administration:** Building stronger Windows administration and automation skills.
+- **Hybrid Identity & Cloud:** Developing foundations in Microsoft Entra ID, Azure, and identity security.
 
-## Technical Interests
+## Tools & Technologies
 
-| Area | Technologies & Concepts |
+| Area | Hands-on tools and topics |
 |---|---|
-| Operating Systems | Windows, Windows Server, Linux |
-| Active Directory | BloodHound, Impacket, Kerberos |
-| Network Security | Nmap, TCP/IP, DNS, DHCP |
-| Security Assessment | Vulnerability Assessment, Enumeration |
-| Windows Tools | PowerShell, Event Viewer, Sysinternals |
-| Cloud & Identity | Microsoft Entra ID, Azure fundamentals |
-| Virtualization & Labs | VirtualBox, Windows Server labs |
-| Documentation | Git, GitHub, Markdown |
+| Windows & Active Directory | Windows Server, Active Directory, BloodHound, Impacket |
+| Network Assessment | Nmap, TCP/IP, DNS, DHCP, service enumeration |
+| Security Testing | Hashcat, Mimikatz, Metasploit |
+| Scripting & Systems | PowerShell, Python, Linux |
+| Lab Environment | VirtualBox, Windows Server, Windows client VMs |
 
-*Tools listed represent areas of practical use and ongoing learning, not equal levels of expertise.*
+*This list reflects tools and technologies I've practised with; it isn't a claim of equal proficiency across every area.*
 
-## Selected Work
+## Selected Projects
 
-### PwnPath
-A cybersecurity learning and documentation project focused on practical security knowledge, methodologies and technical notes.
+### [PAWRecon](https://github.com/M-Ihsan/PAWRecon)
+A lightweight Python reconnaissance tool with a TCP port scanner and subdomain enumerator. Built with the Python standard library, with optional scan-result reports.
 
-[Explore PwnPath](https://github.com/M-Ihsan/PwnPath)
+### [PwnPath](https://github.com/M-Ihsan/PwnPath)
+A practical security learning repository documenting lab work across Windows exploitation, Active Directory, web application testing, and useful command references.
 
-### Pentest-Labs
-A collection of practical penetration-testing and security assessment exercises, notes and lab documentation.
+### [Pentest-Labs](https://github.com/M-Ihsan/Pentest-Labs)
+Hands-on lab documentation covering Windows exploitation, Active Directory attack techniques, network reconnaissance, and introductory web security testing.
 
-[Explore Pentest-Labs](https://github.com/M-Ihsan/Pentest-Labs)
-
-## Certifications & Education
+## Education & Certifications
 
 - **Associate Degree in Computer Science** — Virtual University of Pakistan
 - **Google Cybersecurity Professional Certificate** — Completed
-- **NAVTTC Cyber Security (CEH)** — A+ Grade, Corvit Systems
-- **ISC2 Certified in Cybersecurity (CC)** — In Progress
+- **NAVTTC Cyber Security (CEH) Training** — A+ Grade, Corvit Systems
+- **ISC2 Certified in Cybersecurity (CC)** — In progress
 
-## Experience & Recognition
+## Experience
 
-- Cybersecurity internship — Cyberster
-- Cybersecurity internship — PKCERT
-- Intern of the Month recognition for technical documentation and knowledge-sharing contributions.
-- Practical experience with Active Directory labs, Windows environments, network reconnaissance and vulnerability assessment exercises.
+- **Cybersecurity Intern — Cyberster**
+  - Completed a structured cybersecurity internship and contributed to technical documentation and knowledge sharing.
+  - Recognized as Intern of the Month.
+- **Cybersecurity Intern — PKCERT**
+  - Completed an internship involving practical cybersecurity learning and project work.
 
-## Currently Learning
+## Currently Building
 
-Building stronger foundations in:
-
-- Enterprise networking and infrastructure.
-- Active Directory and Windows security.
-- PowerShell and Windows administration.
-- Microsoft Entra ID and hybrid identity.
-- Infrastructure vulnerability assessment and hardening.
+My learning priorities are enterprise networking, Active Directory and Windows security, PowerShell, infrastructure assessment, and Microsoft Entra ID fundamentals. I'm focused on strengthening the fundamentals through repeatable labs and clear technical documentation.
 
 ## Connect
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/ihsan-pentester">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-FFD43B?style=for-the-badge&logo=linkedin&logoColor=111111" />
-  </a>
-  <a href="https://github.com/M-Ihsan">
-    <img src="https://img.shields.io/badge/GitHub-Explore-FFD43B?style=for-the-badge&logo=github&logoColor=111111" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-F2C94C?style=for-the-badge&logo=linkedin&logoColor=171717&labelColor=171717" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <sub>Learn. Build. Assess. Secure.</sub>
-</p>
+<p align="center"><sub>Learn by building. Improve by testing. Secure by understanding.</sub></p>
