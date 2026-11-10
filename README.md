@@ -1,174 +1,92 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FCD34D,50:F59E0B,100:D97706&text=M%20Ihsan%20ul%20Haq&fontSize=45&fontColor=1F2937&animation=fadeIn&fontAlignY=40" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=900&lines=Aspiring+Penetration+Tester;Red+Team+Operator;Ethical+Hacker;Offensive+Security+Practitioner;Cybersecurity+Researcher" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/ADP-Computer%20Science-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CEH-In%20Progress-FCD34D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ISC2%20CC-In%20Progress-D97706?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Faisalabad-Pakistan-1F2937?style=for-the-badge" />
-</p>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-F59E0B?style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-FCD34D?style=for-the-badge" /></a>
-  <a href="mailto:ihsan.infosec@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D97706?style=for-the-badge" /></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-Follow-1F2937?style=for-the-badge" /></a>
-</p>
----
-# About Me
-I am an aspiring **Penetration Tester** and **Red Team Operator** with hands-on experience in network exploitation, Active Directory attacks, web application security, privilege escalation, credential attacks, and post-exploitation techniques.
+# Muhammad Ihsan
+### Enterprise Infrastructure & Cloud Security
 
-My focus is building practical offensive security skills through realistic lab environments, attack simulations, and detailed technical documentation. I enjoy breaking down complex security concepts into actionable learning while continuously expanding my expertise in red team operations, penetration testing, and cybersecurity.
+<p align="left">
+  <img src="https://img.shields.io/badge/FOCUS-Enterprise%20Security-FFD43B?style=flat-square&labelColor=111111" />
+  <img src="https://img.shields.io/badge/ACTIVE%20DIRECTORY-Windows%20Security-FFD43B?style=flat-square&labelColor=111111" />
+  <img src="https://img.shields.io/badge/LEARNING-Hybrid%20%26%20Cloud-FFD43B?style=flat-square&labelColor=111111" />
+</p>
 
-### Open To
-- Cybersecurity Internships
-- Junior Penetration Tester Roles
-- Red Team Opportunities
-- Security Operations Roles
-- Vulnerability Assessment Projects
-- Offensive Security Research & Collaboration
+I am a Computer Science graduate building practical skills in **enterprise infrastructure security**, with a strong interest in Windows environments, Active Directory, network security, and hybrid identity.
+
+My approach is hands-on: building labs, exploring enterprise attack paths, understanding misconfigurations, troubleshooting systems, and documenting technical findings.
+
+I am particularly interested in understanding how enterprise environments operate, how their security weaknesses can be identified, and how those environments can be better protected.
 
 ---
-# Tech Stack
-## Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,php,html,css,mysql" />
-</p>
 
-## Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
+## Current Focus
 
-## Backend & Databases
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php,mysql,nodejs" />
-</p>
+- **Active Directory:** Domain enumeration, authentication security, attack paths and privilege management.
+- **Windows Security:** Windows internals, endpoint security, PowerShell and security configurations.
+- **Networking:** TCP/IP, subnetting, DNS, DHCP, network enumeration and infrastructure assessment.
+- **Infrastructure Security:** Vulnerability assessment, misconfiguration discovery and security hardening.
+- **Hybrid Identity & Cloud:** Microsoft Entra ID, Azure infrastructure and identity security fundamentals.
 
-## Cloud, DevOps & Tooling
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash,docker" />
+## Technical Interests
+
+| Area | Technologies & Concepts |
+|---|---|
+| Operating Systems | Windows, Windows Server, Linux |
+| Active Directory | BloodHound, Impacket, Kerberos |
+| Network Security | Nmap, TCP/IP, DNS, DHCP |
+| Security Assessment | Vulnerability Assessment, Enumeration |
+| Windows Tools | PowerShell, Event Viewer, Sysinternals |
+| Cloud & Identity | Microsoft Entra ID, Azure fundamentals |
+| Virtualization & Labs | VirtualBox, Windows Server labs |
+| Documentation | Git, GitHub, Markdown |
+
+*Tools listed represent areas of practical use and ongoing learning, not equal levels of expertise.*
+
+## Selected Work
+
+### PwnPath
+A cybersecurity learning and documentation project focused on practical security knowledge, methodologies and technical notes.
+
+[Explore PwnPath](https://github.com/M-Ihsan/PwnPath)
+
+### Pentest-Labs
+A collection of practical penetration-testing and security assessment exercises, notes and lab documentation.
+
+[Explore Pentest-Labs](https://github.com/M-Ihsan/Pentest-Labs)
+
+## Certifications & Education
+
+- **Associate Degree in Computer Science** — Virtual University of Pakistan
+- **Google Cybersecurity Professional Certificate** — Completed
+- **NAVTTC Cyber Security (CEH)** — A+ Grade, Corvit Systems
+- **ISC2 Certified in Cybersecurity (CC)** — In Progress
+
+## Experience & Recognition
+
+- Cybersecurity internship — Cyberster
+- Cybersecurity internship — PKCERT
+- Intern of the Month recognition for technical documentation and knowledge-sharing contributions.
+- Practical experience with Active Directory labs, Windows environments, network reconnaissance and vulnerability assessment exercises.
+
+## Currently Learning
+
+Building stronger foundations in:
+
+- Enterprise networking and infrastructure.
+- Active Directory and Windows security.
+- PowerShell and Windows administration.
+- Microsoft Entra ID and hybrid identity.
+- Infrastructure vulnerability assessment and hardening.
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ihsan-pentester">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-FFD43B?style=for-the-badge&logo=linkedin&logoColor=111111" />
+  </a>
+  <a href="https://github.com/M-Ihsan">
+    <img src="https://img.shields.io/badge/GitHub-Explore-FFD43B?style=for-the-badge&logo=github&logoColor=111111" />
+  </a>
 </p>
 
 ---
-# Featured Projects
-<details>
-<summary><b>Windows Full-Chain Compromise</b></summary>
-### Overview
-Complete attack chain simulation against a Windows environment involving payload delivery, privilege escalation, credential extraction, and lateral movement.
 
-| Metric | Details |
-|---------|---------|
-| Stack | Metasploit, msfvenom, Meterpreter |
-| Scale | Multi-stage Attack Chain |
-| Performance | Successful SYSTEM Compromise |
-| Security | Privilege Escalation |
-| Impact | Full Host Ownership |
-| Repository | Private Lab |
-
-Generated payloads, established Meterpreter sessions, escalated privileges to SYSTEM, extracted NTLM hashes, and executed Pass-the-Hash attacks.
-</details>
-
-<details>
-<summary><b>Active Directory AS-REP Roasting Lab</b></summary>
-### Overview
-Enterprise Active Directory environment built from scratch for authentication attack simulation.
-
-| Metric | Details |
-|---------|---------|
-| Stack | Windows Server, Impacket, Hashcat |
-| Scale | AD Environment |
-| Performance | Credential Recovery |
-| Security | Kerberos Attacks |
-| Impact | Domain Enumeration |
-| Repository | Private Lab |
-
-Implemented vulnerable Kerberos configurations, captured AS-REP hashes, and recovered plaintext credentials through custom wordlists.
-</details>
-
-<details>
-<summary><b>OWASP Top 10 Web Security Lab</b></summary>
-### Overview
-Hands-on exploitation of common web application vulnerabilities.
-
-| Metric | Details |
-|---------|---------|
-| Stack | DVWA, Burp Suite, SQLMap |
-| Scale | Multi-Vulnerability Testing |
-| Performance | Successful Exploitation |
-| Security | OWASP Top 10 |
-| Impact | Security Assessment |
-| Repository | Private Lab |
-
-Performed SQL Injection, Command Injection, Authentication Bypass, and File Upload exploitation exercises.
-</details>
-
-<details>
-<summary><b>Network Reconnaissance Framework</b></summary>
-### Overview
-Comprehensive attack surface mapping and reconnaissance methodology.
-
-| Metric | Details |
-|---------|---------|
-| Stack | Nmap, Recon-ng, WHOIS |
-| Scale | Multi-Target Enumeration |
-| Performance | High Coverage Discovery |
-| Security | Recon & OSINT |
-| Impact | Improved Visibility |
-| Repository | Documentation Repository |
-
-Developed structured workflows for reconnaissance, enumeration, and attack surface analysis.
-</details>
-
----
-# Experience
-## Offensive Security Practitioner (Self-Directed Labs)
-**2025 – Present**
-
-Hands-on cybersecurity practitioner focusing on enterprise attack simulations, penetration testing methodologies, and red team operations.
-
-### Scope of Work
-- Active Directory Security Testing
-- Web Application Exploitation
-- Windows Privilege Escalation
-- Credential Attacks & Lateral Movement
-- Post-Exploitation Techniques
-- Red Team Simulations
-- Security Documentation & Lab Development
-
-**Skills:** `Metasploit` `Burp Suite` `Hashcat` `Impacket` `Hydra` `Nmap` `BloodHound`
-
----
-# Achievements
-| Recognition | Details |
-|------------|---------|
-| Active Directory Lab Builder | Built Complete AD Attack Environment |
-| Offensive Security Portfolio | Fully Documented Attack Chains |
-| Continuous Learner | CEH & ISC2 CC Preparation |
-| Security Mentor | Guided New Cybersecurity Learners |
-| Practical Researcher | OWASP & Enterprise Attack Simulation |
-
----
-# Certifications
-## In Progress
-![CEH](https://img.shields.io/badge/CEH-In%20Progress-F59E0B?style=for-the-badge)
-![ISC2 CC](https://img.shields.io/badge/ISC2%20CC-In%20Progress-FCD34D?style=for-the-badge)
-![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-In%20Progress-D97706?style=for-the-badge)
-
-## Others
-![AWS](https://img.shields.io/badge/AWS-Learning-F59E0B?style=for-the-badge)
-![Cisco](https://img.shields.io/badge/Cisco-Cybersecurity-FCD34D?style=for-the-badge)
-![NPTEL](https://img.shields.io/badge/NPTEL-Continuous%20Learning-D97706?style=for-the-badge)
-
----
-# Coding Profiles
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-F59E0B?style=for-the-badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-FCD34D?style=for-the-badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-D97706?style=for-the-badge" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-1F2937?style=for-the-badge" /></a>
+  <sub>Learn. Build. Assess. Secure.</sub>
 </p>
-
-
